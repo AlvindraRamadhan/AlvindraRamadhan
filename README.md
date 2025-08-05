@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=997&color=FF449F&width=435&lines=Hi+there%2C+Alvindra+Ramadhan)](https://git.io/typing-svg)
+
 # 💫 About Me:
 I am an active Information Systems student from the class of 2023 at Universitas Ahmad Dahlan. With a strong passion for frontend development, I am currently honing my skills in building responsive and interactive web/mobile applications, with a special focus on JavaScript and Flutter. I am always eager to learn, especially about scalable app architecture with Firebase and advanced animations. I'm actively looking for opportunities to collaborate on exciting open-source projects, particularly those focused on creating beautiful and user-centric interfaces. Fun fact: I can spend hours perfecting a single UI element just to make sure it feels right for the user!
 
