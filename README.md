@@ -25,15 +25,15 @@ I am an active Information Systems student from the class of 2023 at Universitas
 
 <h2 align="left">🐍 My Contribution Games 🎮</h2>
 
-<picture>
+![.](<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlvindraRamadhan/AlvindraRamadhan/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlvindraRamadhan/AlvindraRamadhan/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlvindraRamadhan/AlvindraRamadhan/output/pacman-contribution-graph.svg">
-</picture>
+</picture>)
 
 ###
 
-<img src="https://raw.githubusercontent.com/AlvindraRamadhan/AlvindraRamadhan/output/snake.svg" alt="Snake animation" />
+![.](<img src="https://raw.githubusercontent.com/AlvindraRamadhan/AlvindraRamadhan/output/snake.svg" alt="Snake animation" />)
 
 ###
 
