@@ -21,12 +21,13 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AlvindraRamadhan&icon=7&color=0)](https://visitcount.itsvg.in)
 
-![github contribution grid snake animation](<p align="center">
+## 🐍 My Contribution Snake
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlvindraRamadhan/AlvindraRamadhan/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlvindraRamadhan/AlvindraRamadhan/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlvindraRamadhan/AlvindraRamadhan/output/github-contribution-grid-snake.svg">
   </picture>
-</p>)
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
