@@ -1,0 +1,38 @@
+# Nama GitHub Action
+name: Generate Snake Animation
+
+# Kapan Action ini dijalankan
+on:
+  # Dijalankan otomatis setiap 6 jam
+  schedule:
+    - cron: "0 */6 * * *"
+  # Juga bisa dijalankan manual dari tab Actions
+  workflow_dispatch:
+
+# Pekerjaan yang harus dilakukan
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Langkah 1: Mengambil kode dari repositori Anda
+      - uses: actions/checkout@v3
+
+      # Langkah 2: Membuat animasi ular
+      - uses: Platane/snk@v3
+        with:
+          # Menggunakan username GitHub Anda secara otomatis
+          github_user_name: ${{ github.repository_owner }}
+
+          # File output yang akan dibuat
+          # Satu untuk mode terang, satu untuk mode gelap
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Langkah 3: Mendorong file animasi yang sudah dibuat ke branch 'output'
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
