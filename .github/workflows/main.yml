@@ -17,19 +17,20 @@ jobs:
       # Langkah 1: Mengambil kode dari repositori Anda
       - uses: actions/checkout@v3
 
-      # Langkah 2: Membuat animasi ular
+      # Langkah 2: Membuat semua animasi (Ular Klasik, Ular Gelap, dan Pacman)
       - uses: Platane/snk@v3
         with:
           # Menggunakan username GitHub Anda secara otomatis
           github_user_name: ${{ github.repository_owner }}
 
           # File output yang akan dibuat
-          # Satu untuk mode terang, satu untuk mode gelap
+          # Menambahkan baris baru untuk Pacman di sini
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-pacman.svg?game=pacman
 
-      # Langkah 3: Mendorong file animasi yang sudah dibuat ke branch 'output'
+      # Langkah 3: Mendorong semua file animasi yang sudah dibuat ke branch 'output'
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
