@@ -23,4 +23,19 @@ I am an active Information Systems student from the class of 2023 at Universitas
 ---
 [![](https://visitcount.itsvg.in/api?id=AlvindraRamadhan&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<h2 align="left">🐍 My Contribution Games 🎮</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlvindraRamadhan/AlvindraRamadhan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlvindraRamadhan/AlvindraRamadhan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlvindraRamadhan/AlvindraRamadhan/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/AlvindraRamadhan/AlvindraRamadhan/output/snake.svg" alt="Snake animation" />
+
+###
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
