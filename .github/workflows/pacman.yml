@@ -1,3 +1,5 @@
+# .github/workflows/pacman.yml
+
 name: Generate pacman animation
 
 on:
@@ -16,21 +18,19 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      # Langkah 1: Generate file SVG. Hapus input 'outputs' yang tidak valid.
-      # File akan dibuat di direktori utama.
+      # Langkah 1: Generate file SVG
       - name: Generate pacman contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      # Langkah 2: Buat folder 'dist' dan pindahkan file SVG ke dalamnya.
-      - name: Create dist directory and move files
+      # Langkah 2: Pindahkan file yang ada dengan cara yang aman
+      - name: Create dist directory and move files safely
         run: |
           mkdir -p dist
-          mv pacman-contribution-graph.svg dist/
-          mv pacman-contribution-graph-dark.svg dist/
-
-      # Langkah 3: Push isi folder 'dist' ke branch 'output'.
+          find . -maxdepth 1 -name "pacman-contribution-graph*.svg" -exec mv {} dist/ \;
+          
+      # Langkah 3: Push isi folder 'dist' ke branch 'output'
       - name: Push generated files to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
