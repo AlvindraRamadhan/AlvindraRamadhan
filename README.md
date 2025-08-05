@@ -84,11 +84,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=AlvindraRamadhan&icon=7&color=0" alt="Visitor Count"/>
-  </a>
-</p>
 
 ### 🐍 My Contribution Snake
 <p align="center">
