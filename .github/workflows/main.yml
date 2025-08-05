@@ -1,5 +1,5 @@
 # Nama GitHub Action
-name: Generate Snake Animation
+name: Generate Contribution Animations
 
 # Kapan Action ini dijalankan
 on:
@@ -15,23 +15,32 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Langkah 1: Mengambil kode dari repositori Anda
-      - uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v3
 
-      # Langkah 2: Membuat semua animasi (Ular Klasik, Ular Gelap, dan Pacman)
-      - uses: Platane/snk@v3
+      # Langkah 2: Membuat animasi Ular (Snake)
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
         with:
-          # Menggunakan username GitHub Anda secara otomatis
           github_user_name: ${{ github.repository_owner }}
-
-          # File output yang akan dibuat
-          # Menambahkan baris baru untuk Pacman di sini
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake-pacman.svg?game=pacman
 
-      # Langkah 3: Mendorong semua file animasi yang sudah dibuat ke branch 'output'
-      - uses: crazy-max/ghaction-github-pages@v3
+      # Langkah 3: Membuat animasi Pacman
+      - name: Generate Pacman Animation
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+      # Langkah 4: Memindahkan file Pacman ke folder 'dist'
+      # Generator Pacman membuat file di root, jadi kita perlu memindahkannya
+      - name: Move Pacman files
+        run: mv pacman-contribution-graph*.svg dist/
+
+      # Langkah 5: Mendorong semua file animasi (Ular & Pacman) ke branch 'output'
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
