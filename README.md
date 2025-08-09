@@ -34,8 +34,8 @@ I am always eager to learn, especially about scalable app architecture with **Fi
 
 ### 🚀 My Featured Projects
 <p align="center">
-  <a href="https://github.com/AlvindraRamadhan/E-commerce_Ruang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlvindraRamadhan&repo=E-commerce_Ruang&theme=neon&border_color=2e4058&kill_cache=1" alt="E-commerce_Ruang"></a>
-  <a href="https://github.com/AlvindraRamadhan/IndoKos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlvindraRamadhan&repo=IndoKos&theme=neon&border_color=2e4058&kill_cache=1" alt="IndoKos"></a>
+  <a href="https://github.com/AlvindraRamadhan/E-commerce_Ruang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlvindraRamadhan&repo=E-commerce_Ruang&theme=neon&border_color=2e4058" alt="E-commerce_Ruang"></a>
+  <a href="https://github.com/AlvindraRamadhan/IndoKos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlvindraRamadhan&repo=IndoKos&theme=neon&border_color=2e4058" alt="IndoKos"></a>
   <a href="https://github.com/AlvindraRamadhan/analytica-landing-page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlvindraRamadhan&repo=analytica-landing-page&theme=neon&border_color=2e4058" alt="analytica-landing-page"></a>
 </p>
 
@@ -64,8 +64,12 @@ I am always eager to learn, especially about scalable app architecture with **Fi
   <a href="https://github.com/anmol098/waka-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=AlvindraRamadhan&theme=neon&hide_border=true&layout=compact" alt="WakaTime Stats"></a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlvindraRamadhan/AlvindraRamadhan/main/assets/bar_graph.png" alt="Lines of Code Graph">
+</p>
+
 <details align="center">
-  <summary>📊 Click to See My GitHub Stats & Trophies</summary>
+  <summary>📊 Click to See More GitHub Stats & Trophies</summary>
   <br>
   <table width="100%">
     <tr align="center">
