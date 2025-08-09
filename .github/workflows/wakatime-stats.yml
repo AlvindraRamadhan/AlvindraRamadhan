@@ -9,6 +9,11 @@ jobs:
   update-readme:
     name: Update Readme with WakaTime Stats
     runs-on: ubuntu-latest
+    # =================================================================== #
+    # BARIS INI DITAMBAHKAN UNTUK MEMBERI IZIN MENULIS (THE FIX)
+    permissions:
+      contents: write
+    # =================================================================== #
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
