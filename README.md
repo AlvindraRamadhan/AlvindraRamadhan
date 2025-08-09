@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/AlvindraRamadhan">
-    <img src="https://i.imgur.com/eBS425e.gif" alt="Coding Banner" width="100%"/>
+    <img src="https://i.pinimg.com/originals/4c/de/db/4cdedb6e453e7e5a7fec5748315ff3ca.gif" alt="Coding Banner" width="100%"/>
   </a>
 </p>
 <div align="center">
