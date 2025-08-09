@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/AlvindraRamadhan">
-    <img src="https://i.pinimg.com/originals/4c/de/db/4cdedb6e453e7e5a7fec5748315ff3ca.gif" alt="Coding Banner" width="100%"/>
+    <img src="https://i.pinimg.com/originals/4c/de/db/4cdedb6e453e7e5a7fec5748315ff3ca.gif" alt="Coding Banner" width="850" height="230"/>
   </a>
 </p>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=7AF5F5&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Alvindra+Ramadhan!;A+Passionate+Frontend+Developer;Focusing+on+Flutter+%26+JavaScript" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF449F&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Alvindra+Ramadhan!;A+Passionate+Frontend+Developer;Focusing+on+Flutter+%26+JavaScript" alt="Typing SVG" />
   </a>
 </div>
 
