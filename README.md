@@ -36,7 +36,7 @@ I am always eager to learn, especially about scalable app architecture with **Fi
 <p align="center">
   <a href="https://github.com/AlvindraRamadhan/E-commerce_Ruang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlvindraRamadhan&repo=E-commerce_Ruang&theme=neon&border_color=2e4058" alt="E-commerce_Ruang"></a>
   <a href="https://github.com/AlvindraRamadhan/IndoKos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlvindraRamadhan&repo=IndoKos&theme=neon&border_color=2e4058" alt="IndoKos"></a>
-  <a href="https://github.com/AlvindraRamadhan/resep-makanan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlvindraRamadhan&repo=resep-makanan&theme=neon&border_color=2e4058" alt="resep-makanan"></a>
+  <a href="https://github.com/AlvindraRamadhan/analytica-landing-page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlvindraRamadhan&repo=analytica-landing-page&theme=neon&border_color=2e4058" alt="analytica-landing-page"></a>
 </p>
 
 ### 💻 My Tech Stack
