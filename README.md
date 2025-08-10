@@ -5,7 +5,7 @@
 </p>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF449F&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Alvindra+Ramadhan!;A+Passionate+Frontend+Developer;Focusing+on+Flutter+%26+JavaScript" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF449F&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+AlvindraRamadhan!;A+Passionate+Frontend+Developer;Focusing+on+Flutter+%26+JavaScript" alt="Typing SVG" />
   </a>
 </div>
 
@@ -61,7 +61,7 @@ I am always eager to learn, especially about scalable app architecture with **Fi
 ### 📈 My Activity & Stats
 
 <p align="center">
-  <a href="https://github.com/anmol098/waka-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=AlvindraRamadhan&theme=neon&hide_border=true&layout=compact&cache_buster=20250810" alt="WakaTime Stats"></a>
+  <a href="https://github.com/anmol098/waka-readme-stats"><img src="https://waka-readme-stats.vercel.app/api?username=AlvindraRamadhan&theme=neon&layout=compact&hide_border=true" alt="WakaTime Stats"></a>
 </p>
 
 <p align="center">
