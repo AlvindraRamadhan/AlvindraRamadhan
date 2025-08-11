@@ -3,6 +3,8 @@ name: Update Productive Box
 on:
   schedule:
     - cron: '0 0 * * *' # Runs every day at midnight UTC
+  # BARIS INI YANG MEMBUAT TOMBOL 'RUN WORKFLOW' MUNCUL
+  workflow_dispatch:
 
 jobs:
   update-readme:
