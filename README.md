@@ -60,10 +60,9 @@ I am always eager to learn, especially about scalable app architecture with **Fi
 
 ### 📈 My Activity & Stats
 
+*Menunggu data untuk ditampilkan...*
 <p align="center">
   <a href="https://github.com/anmol098/waka-readme-stats"><img src="https://waka-readme-stats.vercel.app/api?username=AlvindraRamadhan&theme=neon&layout=compact&hide_border=true" alt="WakaTime Stats"></a>
-  <br><br>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlvindraRamadhan&theme=transparent&title_color=7AF5F5&text_color=FF449F&bar_color=7AF5F5" alt="Productive Time"></a>
 </p>
 
 <p align="center">
