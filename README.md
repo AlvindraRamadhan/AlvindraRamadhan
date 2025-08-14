@@ -32,11 +32,9 @@ I am always eager to learn, especially about scalable app architecture with **Fi
 
 <br clear="right"/>
 
-### 🚀 My Featured Projects
+### 📊 My GitHub Stats & Activity
 <p align="center">
-  <a href="https://github.com/AlvindraRamadhan/E-commerce_Ruang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlvindraRamadhan&repo=E-commerce_Ruang&theme=neon&border_color=2e4058&cache_buster=1" alt="E-commerce_Ruang"></a>
-  <a href="https://github.com/AlvindraRamadhan/IndoKos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlvindraRamadhan&repo=IndoKos&theme=neon&border_color=2e4058&cache_buster=1" alt="IndoKos"></a>
-  <a href="https://github.com/AlvindraRamadhan/analytica-landing-page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlvindraRamadhan&repo=analytica-landing-page&theme=neon&border_color=2e4058" alt="analytica-landing-page"></a>
+  <img src="github-metrics.svg" alt="Metrics" width="100%">
 </p>
 
 ### 💻 My Tech Stack
@@ -53,28 +51,10 @@ I am always eager to learn, especially about scalable app architecture with **Fi
   <a href="#"><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"></a>
   <br><br>
   <strong>Backend & Tools:</strong><br>
-  <a href="#"><img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase"></a>
+  <a href="#"><img src="https://img.shields.io/badge/firebase-a08021?style-for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase"></a>
   <a href="#"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
   <a href="#"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
 </p>
-
-### 📊 GitHub Stats
-
-<table align="center" width="100%">
-  <tr align="center">
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=AlvindraRamadhan&theme=neon&hide_border=false&include_all_commits=true&count_private=false" alt="Alvindra's GitHub Stats" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvindraRamadhan&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr align="center">
-    <td colspan="2">
-       <img src="https://nirzak-streak-stats.vercel.app/?user=AlvindraRamadhan&theme=neon&hide_border=false" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
 
 ### 🏆 GitHub Trophies
 <p align="center">
