@@ -5,7 +5,7 @@
 </p>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF449F&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Alvindra+Ramadhan!;A+Passionate+Frontend+Developer;Focusing+on+Flutter+%26+JavaScript" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF449F&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+AlvindraRamadhan!;A+Passionate+Frontend+Developer;Focusing+on+Flutter+%26+JavaScript" alt="Typing SVG" />
   </a>
 </div>
 
@@ -47,7 +47,7 @@ I am always eager to learn, especially about scalable app architecture with **Fi
   <br><br>
   <strong>Frontend Development:</strong><br>
   <a href="#"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"></a>
-  <a href="#"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></a>
+  <a href="#"><img src="https://img.shields.io/badge/javascript-%23232330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></a>
   <a href="#"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
   <a href="#"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
   <a href="#"><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"></a>
