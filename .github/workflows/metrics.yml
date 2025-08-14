@@ -25,24 +25,13 @@ jobs:
           config_timezone: Asia/Jakarta
           
           # Opsi Tampilan & Tema
-          # Menggunakan tema dracula sebagai dasar, lalu kita ubah warnanya
           theme: dracula
           config_animations: yes
-          
-          # Mengubah warna agar sesuai dengan tema neon Anda
-          # Format: NAMA_WARNA: HEX_CODE
-          # Anda bisa mengganti warna-warna ini sesuai selera
-          # color_main     -> Warna teks utama (misal: "Total Stars")
-          # color_progress -> Warna bar & lingkaran progres
-          # color_title    -> Warna judul (misal: "Most Used Languages")
-          # color_icon     -> Warna ikon
           config_colors: "color_main: F8F8F2, color_progress: FF449F, color_title: 7AF5F5, color_icon: 7AF5F5"
           
-          # Plugin yang akan ditampilkan
-          plugin_achievements: yes
-          plugin_achievements_threshold: C      # Tampilkan medali perunggu, perak, dan emas
+          # Plugin yang akan ditampilkan (plugin achievements yang eror sudah dihapus)
           plugin_languages: yes
-          plugin_languages_limit: 8             # Tampilkan 8 bahasa paling atas
-          plugin_languages_threshold: 0%        # Tampilkan semua bahasa walaupun persentasenya kecil
+          plugin_languages_limit: 8
+          plugin_languages_threshold: 0%
           plugin_lines: yes
-          plugin_lines_history: yes             # Tampilkan riwayat baris kode
+          plugin_lines_history: yes
