@@ -11,14 +11,12 @@
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=AlvindraRamadhan&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Alvindra Ramadhan's Profile Views" />
+    <br>
+    <a href="https://linkedin.com/in/alvindra-ramadhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://instagram.com/alvindramadhann" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="https://discord.gg/q28QhDWv" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+    <a href="mailto:alvindraramadhan1210@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
-
-<div align="center">
-  <a href="https://linkedin.com/in/alvindra-ramadhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/alvindramadhann" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://discord.gg/q28QhDWv" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="mailto:alvindraramadhan1210@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</div>
 
 ---
 
@@ -28,16 +26,19 @@
 
 I am an active **Information Systems** student at **Universitas Ahmad Dahlan** with a strong passion for **frontend development**. I specialize in building responsive and interactive web/mobile applications using **JavaScript** and **Flutter**.
 
-I am always eager to learn, especially about scalable app architecture with **Firebase** and creating advanced animations. Currently looking for opportunities to collaborate on exciting open-source projects focused on beautiful and user-centric interfaces. Feel free to check out my featured projects below!
-
+I am always eager to learn, especially about scalable app architecture with **Firebase** and creating advanced animations. Currently looking for opportunities to collaborate on exciting open-source projects focused on beautiful and user-centric interfaces.
 <br clear="right"/>
 
+---
+
 ### 📊 My GitHub Stats & Activity
+
 <p align="center">
   <img src="github-metrics.svg" alt="Metrics" width="100%">
 </p>
 
-### 💻 My Tech Stack
+<details>
+<summary>💻 Click to See My Tech Stack</summary>
 <p align="center">
   <strong>Mobile Development:</strong><br>
   <a href="#"><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"></a>
@@ -51,18 +52,17 @@ I am always eager to learn, especially about scalable app architecture with **Fi
   <a href="#"><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"></a>
   <br><br>
   <strong>Backend & Tools:</strong><br>
-  <a href="#"><img src="https://img.shields.io/badge/firebase-a08021?style-for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase"></a>
+  <a href="#"><img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase"></a>
   <a href="#"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
   <a href="#"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
 </p>
+</details>
 
-### 🏆 GitHub Trophies
+<details>
+<summary>🏆 Click to See My Trophies & Contribution Games</summary>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AlvindraRamadhan&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
-
-
-### 🎮 My Contribution Games
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlvindraRamadhan/AlvindraRamadhan/output/pacman-contribution-graph-dark.svg">
@@ -72,3 +72,4 @@ I am always eager to learn, especially about scalable app architecture with **Fi
   <br>
   <img src="https://raw.githubusercontent.com/AlvindraRamadhan/AlvindraRamadhan/output/snake.svg" alt="Snake Contribution Graph" />
 </div>
+</details>
