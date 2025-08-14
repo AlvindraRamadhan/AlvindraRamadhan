@@ -1,0 +1,48 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    # Runs every 12 hours
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - "main"
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Token PAT Anda yang sudah dibuat
+          token: ${{ secrets.GH_PAT }}
+
+          # Opsi Umum
+          user: AlvindraRamadhan
+          config_timezone: Asia/Jakarta
+          
+          # Opsi Tampilan & Tema
+          # Menggunakan tema dracula sebagai dasar, lalu kita ubah warnanya
+          theme: dracula
+          config_animations: yes
+          
+          # Mengubah warna agar sesuai dengan tema neon Anda
+          # Format: NAMA_WARNA: HEX_CODE
+          # Anda bisa mengganti warna-warna ini sesuai selera
+          # color_main     -> Warna teks utama (misal: "Total Stars")
+          # color_progress -> Warna bar & lingkaran progres
+          # color_title    -> Warna judul (misal: "Most Used Languages")
+          # color_icon     -> Warna ikon
+          config_colors: "color_main: F8F8F2, color_progress: FF449F, color_title: 7AF5F5, color_icon: 7AF5F5"
+          
+          # Plugin yang akan ditampilkan
+          plugin_achievements: yes
+          plugin_achievements_threshold: C      # Tampilkan medali perunggu, perak, dan emas
+          plugin_languages: yes
+          plugin_languages_limit: 8             # Tampilkan 8 bahasa paling atas
+          plugin_languages_threshold: 0%        # Tampilkan semua bahasa walaupun persentasenya kecil
+          plugin_lines: yes
+          plugin_lines_history: yes             # Tampilkan riwayat baris kode
