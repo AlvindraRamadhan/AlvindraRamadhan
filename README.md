@@ -34,11 +34,10 @@ I am always eager to learn, especially about scalable app architecture with **Fi
 ### 📊 My GitHub Stats & Activity
 
 <p align="center">
-  <img src="github-metrics.svg" alt="Metrics" width="100%">
+  <img src="https://raw.githubusercontent.com/AlvindraRamadhan/AlvindraRamadhan/main/github-metrics.svg" alt="Metrics" width="100%">
 </p>
 
-<details>
-<summary>💻 Click to See My Tech Stack</summary>
+### 💻 My Tech Stack
 <p align="center">
   <strong>Mobile Development:</strong><br>
   <a href="#"><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"></a>
@@ -56,13 +55,14 @@ I am always eager to learn, especially about scalable app architecture with **Fi
   <a href="#"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
   <a href="#"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
 </p>
-</details>
 
-<details>
-<summary>🏆 Click to See My Trophies & Contribution Games</summary>
+### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AlvindraRamadhan&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
+
+
+### 🎮 My Contribution Games
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlvindraRamadhan/AlvindraRamadhan/output/pacman-contribution-graph-dark.svg">
@@ -72,4 +72,3 @@ I am always eager to learn, especially about scalable app architecture with **Fi
   <br>
   <img src="https://raw.githubusercontent.com/AlvindraRamadhan/AlvindraRamadhan/output/snake.svg" alt="Snake Contribution Graph" />
 </div>
-</details>
