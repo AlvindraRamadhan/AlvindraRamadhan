@@ -5,7 +5,7 @@
 </p>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF449F&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Alvindra+Ramadhan!;A+Passionate+Frontend+Developer;Focusing+on+Flutter+%26+JavaScript" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF449F&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+AlvindraRamadhan!;A+Passionate+Frontend+Developer;Focusing+on+Flutter+%26+JavaScript" alt="Typing SVG" />
   </a>
 </div>
 
@@ -34,7 +34,9 @@ I am always eager to learn, especially about scalable app architecture with **Fi
 
 ### 🚀 My Featured Projects
 <p align="center">
-  <img src="https://github.com/AlvindraRamadhan/AlvindraRamadhan/blob/main/metrics.svg" alt="Metrics">
+  <a href="https://github.com/AlvindraRamadhan/E-commerce_Ruang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlvindraRamadhan&repo=E-commerce_Ruang&theme=neon&border_color=2e4058&cache_buster=1" alt="E-commerce_Ruang"></a>
+  <a href="https://github.com/AlvindraRamadhan/IndoKos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlvindraRamadhan&repo=IndoKos&theme=neon&border_color=2e4058&cache_buster=1" alt="IndoKos"></a>
+  <a href="https://github.com/AlvindraRamadhan/analytica-landing-page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlvindraRamadhan&repo=analytica-landing-page&theme=neon&border_color=2e4058" alt="analytica-landing-page"></a>
 </p>
 
 ### 💻 My Tech Stack
@@ -56,6 +58,35 @@ I am always eager to learn, especially about scalable app architecture with **Fi
   <a href="#"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
 </p>
 
+### 📈 My Activity & Stats
+
+*Menunggu data untuk ditampilkan...*
+<p align="center">
+  <a href="https://github.com/anmol098/waka-readme-stats"><img src="https://waka-readme-stats.vercel.app/api?username=AlvindraRamadhan&theme=neon&layout=compact&hide_border=true&cache_buster=1" alt="WakaTime Stats"></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlvindraRamadhan/AlvindraRamadhan/main/assets/bar_graph.png" alt="Lines of Code Graph">
+</p>
+
+<details align="center">
+  <summary>📊 Click to See More GitHub Stats & Trophies</summary>
+  <br>
+  <table width="100%">
+    <tr align="center">
+      <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=AlvindraRamadhan&theme=neon&hide_border=false&include_all_commits=true&count_private=false" alt="Alvindra's GitHub Stats" /></td>
+      <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvindraRamadhan&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" /></td>
+    </tr>
+    <tr align="center">
+      <td width="50%"><img src="https://nirzak-streak-stats.vercel.app/?user=AlvindraRamadhan&theme=neon&hide_border=false" alt="GitHub Streak" /></td>
+      <td width="50%"><img src="https://github-contributor-stats.vercel.app/api?username=AlvindraRamadhan&limit=5&theme=neon&combine_all_yearly_contributions=true" alt="Top Contributed Repo" /></td>
+    </tr>
+  </table>
+  <br>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=AlvindraRamadhan&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  </p>
+</details>
 
 ### 🎮 My Contribution Games
 <div align="center">
