@@ -1,0 +1,20 @@
+name: Update Productive Box
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update Productive Box
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}
+
+      - uses: maxam2017/productive-box@master
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+          TIMEZONE: "Asia/Jakarta"
