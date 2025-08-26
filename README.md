@@ -3,9 +3,10 @@
     <img src="https://i.pinimg.com/originals/0c/a3/c6/0ca3c6208578b8910445c557b3bf8f87.gif" alt="Coding Banner" width="850" height="230"/>
   </a>
 </p>
+
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF449F&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Alvindra+Ramadhan!;A+Passionate+Frontend+Developer;Exploring+Machine+Learning;Focusing+on+Flutter+%26+JavaScript" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF449F&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Alvindra+Ramadhan!;A+Versatile+Software+Engineer;Building+Full-Stack+Web+%26+Mobile+Apps;Passionate+about+AI+%26+Machine+Learning;Flutter+%7C+JavaScript+%7C+Python" alt="Typing SVG" />
   </a>
 </div>
 
@@ -24,9 +25,15 @@
 
 <img src="https://raw.githubusercontent.com/AlvindraRamadhan/AlvindraRamadhan/main/octocat-1754428509830.png" alt="My Octocat" width="250" align="right" />
 
-I am an active **Information Systems** student at **Universitas Ahmad Dahlan** with a strong passion for **frontend development**. I specialize in building responsive and interactive web/mobile applications using **JavaScript** and **Flutter**.
+I am a **Software Engineer** and an active **Information Systems** student at **Universitas Ahmad Dahlan**, driven by a passion for building robust and scalable end-to-end solutions. My expertise spans across multiple domains, from creating intuitive mobile experiences to developing intelligent systems.
 
-I am always eager to learn, especially about scalable app architecture with **Firebase** and creating advanced animations. Currently looking for opportunities to collaborate on exciting open-source projects focused on beautiful and user-centric interfaces.
+- 📱 **Mobile Development:** I specialize in building cross-platform mobile applications using **Flutter** and **Dart**, leveraging **Firebase** for powerful backend services, as seen in projects like `E-commerce_Ruang`.
+
+- 💻 **Web Development:** I am proficient in the full JavaScript ecosystem, crafting responsive frontends with **React** & **Next.js** and building reliable backend APIs with **Node.js**.
+
+- 🤖 **Machine Learning:** I have a keen interest in AI and have hands-on experience developing end-to-end machine learning applications with **Python**, **Scikit-learn**, and **Streamlit**.
+
+I am always seeking new challenges and opportunities to collaborate on projects that solve real-world problems and create impactful software.
 <br clear="right"/>
 
 ---
@@ -37,20 +44,22 @@ I am always eager to learn, especially about scalable app architecture with **Fi
   <a href="#"><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"></a>
   <a href="#"><img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"></a>
   <br><br>
-  <strong>Frontend Development:</strong><br>
+  <strong>Full-Stack Web Development:</strong><br>
   <a href="#"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"></a>
   <a href="#"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></a>
-  <a href="#"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
-  <a href="#"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
+  <a href="#"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
+  <a href="#"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"></a>
   <a href="#"><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"></a>
   <br><br>
-  <strong>Data Science & Machine Learning:</strong><br>
+  <strong>Machine Learning & AI:</strong><br>
   <a href="#"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
   <a href="#"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"></a>
   <a href="#"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit"></a>
   <br><br>
-  <strong>Backend & Tools:</strong><br>
-  <a href="#"><img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase"></a>
+  <strong>Databases, Cloud & Tools:</strong><br>
+  <a href="#"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"></a>
   <a href="#"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
   <a href="#"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
 </p>
