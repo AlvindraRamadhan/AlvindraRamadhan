@@ -5,7 +5,7 @@
 </p>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF449F&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Alvindra+Ramadhan!;A+Passionate+Frontend+Developer;Focusing+on+Flutter+%26+JavaScript" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF449F&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Alvindra+Ramadhan!;A+Passionate+Frontend+Developer;Exploring+Machine+Learning;Focusing+on+Flutter+%26+JavaScript" alt="Typing SVG" />
   </a>
 </div>
 
@@ -31,11 +31,16 @@ I am always eager to learn, especially about scalable app architecture with **Fi
 
 ---
 
-### 📊 My GitHub Stats & Activity
+### 🌟 Featured Projects
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AlvindraRamadhan/AlvindraRamadhan/main/github-metrics.svg" alt="Metrics" width="100%">
-</p>
+| Project Name | Description | Technologies |
+| :--- | :--- | :--- |
+| **[Analytica Landing Page](https://github.com/AlvindraRamadhan/analytica-landing-page)** | Landing page modern & responsif untuk platform analitik. | `React` `JavaScript` |
+| **[E-commerce Ruang](https://github.com/AlvindraRamadhan/E-commerce_Ruang)** | Aplikasi e-commerce fungsional untuk penjualan furnitur. | `JavaScript` `HTML5` |
+| **[IndoKos](https://github.com/AlvindraRamadhan/IndoKos)** | Prototipe aplikasi pencarian kos dengan fokus pada desain UI/UX. | `Figma` `UI/UX` |
+| **[Klasifikasi Bunga Iris](https://github.com/AlvindraRamadhan/proyek-klasifikasi-iris)** | Aplikasi web machine learning untuk prediksi spesies bunga. | `Python` `Streamlit` |
+
+---
 
 ### 💻 My Tech Stack
 <p align="center">
@@ -50,11 +55,26 @@ I am always eager to learn, especially about scalable app architecture with **Fi
   <a href="#"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
   <a href="#"><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"></a>
   <br><br>
+  <strong>Data Science & Machine Learning:</strong><br>
+  <a href="#"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
+  <a href="#"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit"></a>
+  <br><br>
   <strong>Backend & Tools:</strong><br>
   <a href="#"><img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase"></a>
   <a href="#"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
   <a href="#"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
 </p>
+
+---
+
+### 📊 My GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlvindraRamadhan/AlvindraRamadhan/main/github-metrics.svg" alt="Metrics" width="100%">
+</p>
+
+---
 
 ### 🏆 GitHub Trophies
 <p align="center">
