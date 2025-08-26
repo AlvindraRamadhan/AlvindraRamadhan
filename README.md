@@ -31,17 +31,6 @@ I am always eager to learn, especially about scalable app architecture with **Fi
 
 ---
 
-### 🌟 Featured Projects
-
-| Project Name | Description | Technologies |
-| :--- | :--- | :--- |
-| **[Analytica Landing Page](https://github.com/AlvindraRamadhan/analytica-landing-page)** | Landing page modern & responsif untuk platform analitik. | `React` `JavaScript` |
-| **[E-commerce Ruang](https://github.com/AlvindraRamadhan/E-commerce_Ruang)** | Aplikasi e-commerce fungsional untuk penjualan furnitur. | `JavaScript` `HTML5` |
-| **[IndoKos](https://github.com/AlvindraRamadhan/IndoKos)** | Prototipe aplikasi pencarian kos dengan fokus pada desain UI/UX. | `Figma` `UI/UX` |
-| **[Klasifikasi Bunga Iris](https://github.com/AlvindraRamadhan/proyek-klasifikasi-iris)** | Aplikasi web machine learning untuk prediksi spesies bunga. | `Python` `Streamlit` |
-
----
-
 ### 💻 My Tech Stack
 <p align="center">
   <strong>Mobile Development:</strong><br>
@@ -75,12 +64,6 @@ I am always eager to learn, especially about scalable app architecture with **Fi
 </p>
 
 ---
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlvindraRamadhan&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
 
 ### 🎮 My Contribution Games
 <div align="center">
