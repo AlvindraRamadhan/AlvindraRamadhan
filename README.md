@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/AlvindraRamadhan">
-    <img src="https://gifdb.com/images/high/valorant-astra-discord-banner-las2n7mx0fqcaw8n.gif" alt="Coding Banner" width="850" height="230"/>
+    <img src="https://i.pinimg.com/originals/32/d3/e1/32d3e1965bb1ae38f930d41881b4a060.gif" alt="Coding Banner" width="850" height="230"/>
   </a>
 </p>
 
